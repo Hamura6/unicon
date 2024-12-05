@@ -1,0 +1,25 @@
+// Body
+$body-bg: #dee4ec;
+$primary: #1e3a61;
+$theme-colors: (
+  "primary": #041225,
+  "danger": rgb(78, 0, 0),
+  "secondary": rgb(56, 54, 54),
+  "success": rgb(6, 95, 6),
+  "warning": rgb(163, 163, 7)
+);
+
+/* $theme-colors: (
+    "primary": #183153,
+    "danger": rgb(78, 0, 0),
+    "secondary": rgb(56, 54, 54),
+    "success": rgb(6, 95, 6),
+  "info":       $info,
+  "warning": rgb(163, 163, 7),
+  "light":      $light,
+  "dark":       $dark
+); */
+// Typography
+$font-family-sans-serif: 'Century Gothic';
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
